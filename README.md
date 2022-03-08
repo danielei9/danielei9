@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="900" height="400" />
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielei9" alt="danielei9" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
