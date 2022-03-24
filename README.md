@@ -3,8 +3,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=danielei9&theme=onestar&row=1)](https://github.com/danielei9/github-profile-trophy)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielei9&show_icons=true&locale=en&theme=dark" alt="danielei9" /></p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Danielei99.png" alt="TryHackMe">
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://instagram.com/buchspro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buchspro" height="30" width="40" /></a>
 </p>
 
