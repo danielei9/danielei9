@@ -4,7 +4,6 @@
 
 Work account -  @danbursol  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielei9&theme=onestar&row=1)](https://github.com/danielei9/github-profile-trophy)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielei9&show_icons=true&locale=en&theme=dark" alt="danielei9" /></p>
 
 # Security Systems
